@@ -1,0 +1,43 @@
+{
+  "source_rows": 541909,
+  "quarantined_rows": 0,
+  "quarantine_examples": [],
+  "duplicate_rows_removed": 5268,
+  "prices_rounded_to_pence": 4,
+  "classification": [
+    {
+      "line_type": "cancellation",
+      "lines": 8663
+    },
+    {
+      "line_type": "non_merchandise",
+      "lines": 3379
+    },
+    {
+      "line_type": "nonpositive_price",
+      "lines": 2478
+    },
+    {
+      "line_type": "sale",
+      "lines": 522121
+    }
+  ],
+  "source_archive_sha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+  "analytical_gross_pence": 1022990515,
+  "analytical_net_pence": 975465649,
+  "signed_scope_total_including_duplicates_pence": 977604721,
+  "checks": {
+    "expected_source_rows": true,
+    "raw_quarantine_reconciliation": true,
+    "classification_reconciliation": true,
+    "gross_minus_cancellations": true,
+    "monthly_net_additivity": true,
+    "monthly_gross_additivity": true,
+    "monthly_cancellation_additivity": true,
+    "invoice_month_country_grain": true,
+    "invoice_count_additivity": true,
+    "cohort_denominators": true,
+    "buyer_count_reconciliation": true,
+    "positive_sales_negative_cancellations": true
+  }
+}

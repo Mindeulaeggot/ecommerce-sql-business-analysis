@@ -1,0 +1,12 @@
+{
+  "reports/cohort_retention.csv": "2130df1bb04ed52d341cdfb14a26b2a849a7aae30c3825f80f3ec9f0eef065c0",
+  "reports/country_month.csv": "79393da39d746cc6d0c66a2834a6cff21a46ae2da6cf97e480a659e300984322",
+  "reports/customers.csv": "4e07563d252607a4f459350f90e7ae4106006635bfb6df026d67e5fd9a8c4b7b",
+  "reports/data_quality.json": "4edc9599d18b5103549532577c5baa079a8b61614e7e204f74cef653052a1c48",
+  "reports/executive_brief.pdf": "d19478d8bcc7de8b4a530a0c49598213d4943b5a1710b85b8268ecd91607de08",
+  "reports/kpis.csv": "2c98708a51a97173f99018099ee73d546c8343525e19842c76782408b995e554",
+  "reports/outlier_sensitivity.csv": "4a3cd478380f771c46952aa45541311d1deaf520de9425f15189325ef436241b",
+  "reports/products.csv": "321380d3cec902cd7acd2bbcf0b49a166e3b8462293b52bcc6eaead6df950ccb",
+  "reports/results.json": "eb0d59160d208d270cd2d1f492378cd168efac2e3fdd210e1a869e6b39de0ff1",
+  "reports/sensitivity.csv": "5b6b71cbd6af537617cf85dc1581b9ee770b9e49d267f792637d8ccedcccb4e0"
+}
